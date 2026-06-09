@@ -6,7 +6,7 @@
 
 Mumbai, India · B.E. Information Technology @ MHSSCE (2027)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-khan-7308932a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanshoaibishtiyak@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kshxaib)
 
@@ -44,12 +44,8 @@ I build full-stack web apps and GenAI pipelines. Currently co-leading the Techni
 
 ---
 
-## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshxaib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshxaib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
 
 </div>
