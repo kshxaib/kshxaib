@@ -41,15 +41,6 @@ I build full-stack web apps and GenAI pipelines. Currently co-leading the Techni
 | **Stitch & Style** | Multi-role fashion e-commerce platform with Razorpay & Stripe | React, Node, MongoDB, Cloudinary |
 | **TalentTribe** 🏆 | Job portal with AI interview prep, resume builder & live chat — *HackCelestial 1.0 Finalist* | React, Node, MongoDB, Socket.IO |
 
----
-
-
-<div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshxaib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
-</div>
-
----
 
 <div align="center">
 <sub>📍 Mumbai · 📬 khanshoaibishtiyak@gmail.com · 🟢 Open to opportunities</sub>
