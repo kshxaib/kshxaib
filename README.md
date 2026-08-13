@@ -37,7 +37,6 @@ I build full-stack web apps and GenAI pipelines. Currently co-leading the Techni
 | Project | Description | Stack |
 |---|---|---|
 | **CodeSaga** | LeetCode-style platform with AI code review, contests & real-time discussion | React, Node, PostgreSQL, Docker, OpenAI |
-| **Roomora** | Hotel booking platform with role-based dashboards & payment system | React, Node, PostgreSQL, Prisma, Docker |
 | **AskYourDoc** | RAG chatbot to query PDFs, DOCX & TXT files in natural language | Python, LangChain, Qdrant, OpenAI, Streamlit |
 | **Stitch & Style** | Multi-role fashion e-commerce platform with Razorpay & Stripe | React, Node, MongoDB, Cloudinary |
 | **TalentTribe** 🏆 | Job portal with AI interview prep, resume builder & live chat — *HackCelestial 1.0 Finalist* | React, Node, MongoDB, Socket.IO |
