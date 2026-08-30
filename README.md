@@ -15,6 +15,7 @@ Mumbai, India · B.E. Information Technology @ MHSSCE (2027)
 
 I build full-stack web apps and GenAI systems using React, Node.js, Python, FastAPI, PostgreSQL, Docker, RAG, LangChain, and LLM APIs. Currently co-leading the Technical Team at ACM Student Chapter and exploring AI agents, code-aware RAG, and scalable backend systems. Also solved **350+ unique problems on DSA**.
 
+Currently focusing on System Design
 ---
 
 ## 💼 Experience
@@ -33,10 +34,10 @@ I build full-stack web apps and GenAI systems using React, Node.js, Python, Fast
 ## 🛠️ Tech Stack
 
 **Languages** — JavaScript, Java, Python
-**Frontend** — React.js, Next.js, Redux, Zustand, Tailwind CSS
-**Backend & Databases** — Node.js, Express.js, FastAPI, MongoDB, PostgreSQL, Prisma, Firebase
-**AI / GenAI** — LangChain, LangGraph, LangSmith, RAG, Qdrant DB, Neo4j, AI Agents, OpenAI API
-**DevOps & Tools** — Git, GitHub, Docker, AWS, Postman, Langfuse
+**Frontend** — React.js, Next.js, Streamlit
+**Backend & Databases** — Node.js, Express.js, FastAPI, MongoDB, PostgreSQL, Firebase
+**AI / GenAI** — LangChain, LangGraph, LangSmith, RAG, AI Agents
+**DevOps & Tools** — Git, GitHub, Docker, AWS, Postman, Langfuse, Kubernetes
 
 ---
 
