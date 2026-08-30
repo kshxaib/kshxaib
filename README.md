@@ -58,5 +58,5 @@ I build full-stack web apps and GenAI systems using React, Node.js, Python, Fast
 ---
 
 <div align="center">
-<sub>📍 Mumbai · 📬 khanshoaibishtiyak@gmail.com · 📱 +91 9324649967 · 🟢 Open to opportunities</sub>
+<sub>📍 Mumbai · 📬 khanshoaibishtiyak@gmail.com · 🟢 Open to opportunities</sub>
 </div>
