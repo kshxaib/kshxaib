@@ -1,9 +1,10 @@
 <div align="center">
 
 # Hi, I'm Shoeb Khan 👋
-**Full Stack Developer · AI Engineer · Final Year IT Student**
 
-Mumbai, India · B.E. Information Technology @ MHSSCE (2027)
+**Full Stack Developer · AI Engineer · B.E. Information Technology**
+
+Mumbai, India · MHSSCE · Expected Graduation: 2027
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0C?style=flat-square&logo=vercel&logoColor=F5A524)](https://www.kshoeb.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoeb-khan-7308932a9/)
@@ -14,78 +15,129 @@ Mumbai, India · B.E. Information Technology @ MHSSCE (2027)
 
 ---
 
-I build full-stack web apps and GenAI systems using React, Node.js, Python, FastAPI, PostgreSQL, Docker, RAG, LangChain, and LLM APIs. Currently co-leading the Technical Team at ACM Student Chapter and working on AI agents, code-aware RAG, and scalable backend systems.
+## About Me
 
-**3rd rank out of 2,500+ participants** (CodeSaga) · **National Level Hackathon Finalist** (HackCelestial 1.0) · **350+ unique DSA problems solved**
+I build full-stack web applications and AI-powered systems using **React, Node.js, FastAPI, Python, PostgreSQL, and RAG/LLM pipelines**.
+
+I enjoy building systems that solve real problems — from AI-powered academic workflows to codebase intelligence and developer tools.
+
+**350+ unique DSA problems solved in Java.**
 
 ---
 
 ## 🏆 Achievements
 
-- **3rd Rank out of 2,500+ participants** — CodeSaga, reviewed at Demo Day on June 8, 2025.
-- **National Level Hackathon Finalist** — HackCelestial 1.0. Team KromaApps built **TalentTribe** in 36 hours: job and internship applications, MockMate AI interview practice with speech-to-text, the Resumate resume builder, and iChat community networking. *(React, Node.js, MongoDB, Socket.IO)*
-- **350+ unique DSA problems solved.**
+- **3rd Rank out of 2,500+ participants** — CodeSaga, Demo Day 2025.
+- **National Level Hackathon Finalist** — HackCelestial 1.0.
+- **350+ unique DSA problems solved** using Java.
 
 ---
 
 ## 💼 Experience
 
-**KromaApps — Full-Stack Developer Intern** · Mumbai, India · Jul 2025 – May 2026
-- Built **Stitch & Style**, a multi-role commerce platform — JWT authentication, Razorpay and Stripe payment flows, Cloudinary media handling — and carried it through deployment.
-- Developed **TalentTribe**, an AI-enabled job platform using React, Node.js, MongoDB, and Socket.IO.
+### KromaApps — Full-Stack Developer Intern
+**Mumbai, India · Jan 2024 – Nov 2025**
 
-**ACM Student Chapter — Joint Head, Technical Team**
+- Worked on **Stitch & Style**, focusing on backend API development, authentication, and payment workflows.
+- Worked with **Razorpay and Stripe** payment integrations and backend system optimization.
+
+### ACM Student Chapter — Joint Head, Technical Team
+**Mumbai, India · Jul 2025 – May 2026**
+
 - Led technical initiatives, workshops, hackathons, and student projects.
 - Revamped MHSSCE website UI/UX for improved accessibility and consistency.
-- Coordinated technical events with internal teams.
 
 ---
 
 ## 🚀 Projects
 
-### AcademicStack 🟢 Live
-AI-powered academic exam prep platform. A RAG pipeline extracts questions from university papers, retrieves relevant academic resources, generates resource-grounded answers, and produces downloadable answer-set PDFs. Built with resilient document processing — rate limiting, retries, exponential backoff, and resumable indexing.
+### AcademicStack — AI-Powered Academic Exam Preparation Platform
+
+An AI-powered platform that automates the workflow of extracting questions from university papers, generating resource-grounded answers, and preparing exam-ready PDFs.
+
+- Reduced hours of manual preparation to **~10 minutes**.
+- Built resilient document processing with **retries, rate limiting, exponential backoff, and resumable processing**.
+- **50+ active users.**
 
 `React` `FastAPI` `PostgreSQL` `Qdrant` `LangChain` `Docker`
-[Live](https://academicstack.kshoeb.in/) 
 
-### CodeLens · *In development*
-AI assistant that indexes GitHub repositories and generates grounded answers with file-level and full citations. Code-aware RAG with conversational context, chat memory, and repository-aware retrieval.
-
-`React` `FastAPI` `OpenAI` `Qdrant` `LangChain` `LangGraph` `Tree-sitter` `Docker`
+🔗 [Live Demo](https://academicstack.kshoeb.in/) · [GitHub](https://github.com/kshxaib/AcademicStack)
 
 
-### CodeSaga · *3rd of 2,500+ participants*
-LeetCode-style coding platform: custom and premium problem sheets, live contests with real-time leaderboards, AI code completion and review, real-time problem discussions, multi-language execution via Judge0, and Razorpay premium memberships.
+### CodeLens — AI-Powered Codebase Intelligence Platform
 
-`React` `Node.js` `PostgreSQL` `Prisma` `Judge0` `Socket.IO` `OpenAI` `Docker`
+AI-powered codebase assistant that parses and indexes multi-language GitHub repositories and provides grounded answers through code-aware RAG.
+
+- AST-aware semantic chunking and repository-aware retrieval.
+- Asynchronous repository indexing with shallow cloning and automated cleanup.
+- Reduced repository indexing time by **60%**.
+- Sub-**500ms semantic retrieval** with file and line-level citations.
+- Interactive architecture explorer for imports, call graphs, and cross-file dependencies.
+
+`React` `FastAPI` `Qdrant` `RAG` `Tree-sitter` `Docker`
+
+🔗 [GitHub](https://github.com/kshxaib/CodeLens)
 
 
-### Portfolio · 🟢 Live
-Personal site with a grounded AI assistant that answers questions about my work using only verified data — lexical RAG over a structured knowledge base, a deterministic scope guard, and real token streaming. No hardcoded answers.
+### CodeSaga — Full-Stack AI Coding Platform
 
-`React` `TypeScript` `Tailwind` `Express` `OpenAI`
-[Live](https://www.kshoeb.in/)
+LeetCode-style coding platform featuring custom problems, contests, AI code review and completion, real-time discussions, and premium memberships.
+
+- Ranked **3rd among 2,500+ participants**.
+- Built real-time coding and contest workflows.
+- Integrated **Razorpay** premium memberships.
+
+`React` `Node.js` `PostgreSQL` `Prisma` `Socket.IO` `Judge0` `OpenAI` `Docker`
+
+🔗 [GitHub](https://github.com/kshxaib/CodeSaga)
+
+
+### Portfolio — AI-Powered Personal Website
+
+Personal portfolio with an AI assistant that answers questions about my work using a structured knowledge base and grounded retrieval.
+
+`React` `TypeScript` `Tailwind CSS` `Express` `OpenAI`
+
+🔗 [Live](https://www.kshoeb.in/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages** — JavaScript, TypeScript, Java, Python 
-**Frontend** — React.js, Next.js, Redux, Zustand, Tailwind CSS, Streamlit
-**Backend & Databases** — Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Prisma, Firebase
-**AI / GenAI** — LangChain, LangGraph, LangSmith, RAG, AI Agents, LLM APIs, Qdrant, Neo4j
-**DevOps & Tools** — Git, GitHub, Docker, Kubernetes, AWS, Postman, Langfuse
+**Languages**
+
+JavaScript · TypeScript · Java · Python
+
+**Frontend**
+
+React.js · Next.js · Redux · Zustand · Tailwind CSS
+
+**Backend & Databases**
+
+Node.js · Express.js · FastAPI · PostgreSQL · MongoDB · Prisma · Firebase
+
+**AI / GenAI**
+
+RAG · LLM APIs · LangChain · LangGraph · Qdrant · AI Agents
+
+**DevOps & Tools**
+
+Git · GitHub · Docker · AWS · Postman · Langfuse
 
 ---
 
-## 📜 Licenses & Certifications
-- FullStack Web Dev Cohort — ChaiCode
-- GenAI Cohort — ChaiCode
-- Java Certificate — Udemy
+## 📜 Certifications
+
+- **Full Stack Web Development Cohort** — ChaiCode
+- **GenAI Cohort** — ChaiCode
+- **Java Certificate** — Udemy
 
 ---
 
 <div align="center">
-<sub>📍 Mumbai · 📬 khanshoaibishtiyak@gmail.com · 🟢 Open to opportunities</sub>
+
+📍 Mumbai, India · 📬 khanshoaibishtiyak@gmail.com
+
+**Open to Software Engineering & Full-Stack opportunities**
+
 </div>
