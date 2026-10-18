@@ -40,7 +40,7 @@ I build production-grade web applications and AI-powered systems using **React, 
 **Full-Stack Developer Intern** · KromaApps · Mumbai
 `Jan 2024 – Nov 2025`
 
-> Built backend APIs for Stitch & Style — authentication, Razorpay/Stripe payment workflows, and backend optimization.
+> Built backend APIs for Stitch & Style — authentication, Razorpay payment workflows, and backend optimization.
 
 **Joint Head, Technical Team** · ACM Student Chapter · Mumbai
 `Jul 2025 – May 2026`
@@ -67,7 +67,7 @@ Parses and indexes multi-language GitHub repositories with AST-aware semantic ch
 
 `React` `FastAPI` `Qdrant` `RAG` `Tree-sitter` `Docker`
 
-[GitHub](https://github.com/kshxaib/CodeLens)
+[Live Demo](https://codelens.kshoeb.in/) · [GitHub](https://github.com/kshxaib/CodeLens)
 
 ---
 
@@ -76,10 +76,10 @@ Parses and indexes multi-language GitHub repositories with AST-aware semantic ch
 | Domain | Technologies |
 |--------|-------------|
 | **Languages** | JavaScript · TypeScript · Java · Python |
-| **Frontend** | React.js · Next.js · Redux · Zustand · Tailwind CSS |
-| **Backend & DB** | Node.js · Express.js · FastAPI · PostgreSQL · MongoDB · Prisma · Firebase |
-| **AI / GenAI** | RAG · LLM APIs · LangChain · LangGraph · Qdrant · AI Agents |
-| **DevOps & Tools** | Git · GitHub · Docker · AWS · Postman · Langfuse |
+| **Frontend** | React.js · Next.js · Tailwind CSS |
+| **Backend & DB** | Node.js · FastAPI · PostgreSQL · MongoDB |
+| **AI & GenAI** | RAG · LLM APIs · LangChain · LangGraph · Qdrant · AI Agents |
+| **DevOps & Tools** | Git · GitHub · Docker · AWS |
 
 ---
 
