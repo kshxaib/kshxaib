@@ -96,4 +96,4 @@ I build scalable full-stack applications and production-grade **RAG systems**. I
 
 ##  Let's Connect
 
-I'm open to **Software Engineer / Full-Stack / AI Engineering** opportunities. Reach me at [khanshoaibishtiyak@gmail.com](mailto:khanshoaibishtiyak@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN).
+I'm open to **Software Engineer / Full-Stack / AI Engineering** opportunities. Reach me at [khanshoaibishtiyak@gmail.com](mailto:khanshoaibishtiyak@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/shoeb-khan-7308932a9/).
